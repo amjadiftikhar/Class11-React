@@ -43,6 +43,31 @@ Teacher suggestion:
 - Make a jquery app first and then change it into dom	
 - "Why react comes" - video - all students should watch this. 
 
+## Get started with minimal setup
+
+```js
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Get started with React</title>
+</head>
+<body>
+    <div id="root">Loading...</div>
+
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    
+    <script type="text/babel">
+        // Write react code with JSX here 
+    </script>
+</body>
+</html>
+
+```
 
 ## Coding inspiration
 
