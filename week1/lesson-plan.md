@@ -32,16 +32,14 @@
 
 - State
   - State holds all the dynamic data of the app
-  - State can only be defined in class-based components
+  - State can only be defined in class-based and functional components with hooks
   - Initialization of state in constructor
   - [Code inspiration](#counter-example)
   - [Exercise](#counter)
 
-Both props and state are plain JavaScript objects
 
 Teacher suggestion: 
-- Make a jquery app first and then change it into dom	
-- "Why react comes" - video - all students should watch this. 
+- Make a jquery app first and then change it to react instead
 
 ### Get started with react
 
