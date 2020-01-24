@@ -39,7 +39,7 @@
 
 
 Teacher suggestion: 
-- Make a jquery app first and then change it to react instead
+- Make a jquery app first and then change it to use react instead
 
 ### Get started with react
 
