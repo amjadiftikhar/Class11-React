@@ -43,7 +43,7 @@ Teacher suggestion:
 - Make a jquery app first and then change it into dom	
 - "Why react comes" - video - all students should watch this. 
 
-## Get started with minimal setup
+### Get started with react
 
 ```js
 <!DOCTYPE html>
@@ -62,12 +62,14 @@ Teacher suggestion:
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
     
     <script type="text/babel">
-        // Write react code with JSX here 
+        // Write react code with JSX here
     </script>
 </body>
 </html>
 
 ```
+### Get started with React and parcel.js
+- https://github.com/senner008/react-min-boilerplate-parcel
 
 ## Coding inspiration
 
