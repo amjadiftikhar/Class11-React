@@ -175,5 +175,11 @@ Create a new component called `UserItemExpanded`. Render these user attributes a
 ### Counter
 Expanding the Counter example, Add two new buttons:
 1. Reset button. Clicking this button will reset the counter
-2. Increment double. Clicking this button will double the counter. 
+2. Increment double. Clicking this button will double the counter.
+
+## Ekstra:
+
+### Fibonacci Counter
+Count the fibonacci row instead. Log each new count as an expanding list of numbers
+
 

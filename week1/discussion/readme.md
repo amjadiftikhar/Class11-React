@@ -14,3 +14,22 @@ Even though the performance is technically improved with Virtual Dom then
 
 Conclusion:
 In practice it rarely matters what approach you take. Don't get obsessed with micro optimizations and comparisson of framework/library performance.
+
+## State management and render logic
+
+When creating apps we see repeating patterns. For instance we always have to set up a relationship between changing variables and rendering of the DOM.
+
+We often repeat the following set of actions:
+
+A : Reassign or mutate variable
+B : Update dom with the new value(s)
+
+If these two operations always go together then it follows that we can create an abstraction called C which performs A and B
+
+C : A -> B (if A is true then B)
+
+But we don't want to update the DOM without A so instead we should go futher and say
+
+C : A <-> B(only do B if A)
+
+Look at the function called State in state-management. This exports an object and closes over a state object. By watching for state changes we can create a persistent binding to a render function.
