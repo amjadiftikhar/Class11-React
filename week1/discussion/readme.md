@@ -17,7 +17,7 @@ In practice it rarely matters what approach you take. Don't get obsessed with mi
 
 ## State management and render logic
 
-When creating apps we see repeating patterns. For instance we always have to set up a relationship between changing variables and rendering of the DOM.
+When creating apps we see repeating patterns. For instance we often set up a relationship between changing variables and rendering of the DOM.
 
 We often repeat the following set of actions:
 
