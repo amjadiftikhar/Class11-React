@@ -181,6 +181,6 @@ Expanding the Counter example, Add two new buttons:
 
 ### Fibonacci Counter
 Count the fibonacci row instead. Log each new count as an expanding list of numbers
-![alt text](https://github.com/senner008/Class11-React/tree/master/week1/fibo_counter.png "Logo Title Text 1")
+![alt text](https://github.com/senner008/Class11-React/blob/master/week1/fibo_counter.png "Logo Title Text 1")
 
 
