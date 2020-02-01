@@ -16,11 +16,11 @@ Is this what you expected? Explain what is going on here and compare with the pr
 ### With Closure Issue React
 Here the closure issue appears in a react component. When using useEffect, you should be prepared for this and be able to explain the issue. The explanation is still the same.
 
-- Refer to the article about 'the stale clusure' issue in the resources folder
-
 ![alt text](https://github.com/senner008/Class11-React/blob/master/week2/discussion/closure_issue.jpg "Logo Title Text 1")
 
-
+### Links in resources folder:
+- The stale clusure
+- A Complete Guide to useEffect
 
 
 

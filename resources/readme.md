@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3
 ## The stale closure issue
 
 https://dmitripavlutin.com/react-hooks-stale-closures/
+
+## Complete guide to useEffect
+
+https://overreacted.io/a-complete-guide-to-useeffect/
