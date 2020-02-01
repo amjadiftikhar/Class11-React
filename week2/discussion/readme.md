@@ -22,7 +22,7 @@ Here the closure issue appears in a react component. When using useEffect, you s
 
 - Refer to the article about 'the stale clusure' issue in the resources folder
 
-![alt text](https://github.com/senner008/Class11-React/blob/master/week2/discussion/closure_issue.png "Logo Title Text 1")
+![alt text](https://github.com/senner008/Class11-React/blob/master/week2/discussion/closure_issue.jpg "Logo Title Text 1")
 
 
 
