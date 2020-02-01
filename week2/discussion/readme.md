@@ -1,7 +1,3 @@
-fibo counter expanded
-clock using setTimeout
-clock using setInterval
-
 ## Issues with closure
 
 Look at the 3 examples in the folders. They are called:
