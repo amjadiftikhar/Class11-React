@@ -32,6 +32,11 @@
   - Keys help React identify which items have changed, are added, or are removed
   - [Index should be avoided](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
   - [Code inspiration](#todolist-updating-state-with-list)
+- Compponent life cycles
+  - [Using the effect hook](https://reactjs.org/docs/hooks-effect.html)
+  - Understand when useEffect is executed
+  - understand how to"clean up" useEffect code
+  - Understand when "clean up" is run
 
 [Code inspiration](#counter)
 
