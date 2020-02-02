@@ -100,8 +100,11 @@ ReactDOM.render(
 ```
 
 Now extend it with the following features:
+- Add a button that decrements the timer
+- Add a button that resets the counter to 0
+
+Ekstra : 
 - A button that pauses the counter
   - Clicking it should change the text so it says `start`. Clicking the button now should start the timer again and change the text to `pause`
   - Also, the counter should stop immediately. Hint : you need to return a clean up function from useEffect
-- Add a button that decrements the timer
-- Add a button that resets the counter to 0
+- An input field that lets you set the speed of the counter. The speed should be reflected immediately on keypress and the counter should pause when entering invalid input.
