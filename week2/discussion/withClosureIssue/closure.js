@@ -1,10 +1,7 @@
-
 var hasRun = false;
-
 function myFunc () {
 
     var counter = 0;
-
     if (hasRun === false) {
         document.querySelector("#box").addEventListener("click", () => {
             counter++;
@@ -13,7 +10,6 @@ function myFunc () {
         hasRun = true;
     }
 }
-
 myFunc();
 
 document.querySelector("button").addEventListener("click", myFunc);
